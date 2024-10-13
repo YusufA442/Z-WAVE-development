@@ -1,0 +1,4 @@
+add in path editing for saving your game so you can store the save file anywhere
+make a guest wifi for visitors and for that rat kivanc
+make the game have a second player with the HUD overlapping for both players, as in the Stats are below the first player's
+stats
